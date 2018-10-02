@@ -1,0 +1,19 @@
+mat-grid-tile {
+    background: lightblue;
+  }
+    #salsa{ background-image: url("/assets/salsa.jpg");
+        background-size: 555px;
+    }
+    #hipop{background-image: url("/assets/hipop.jpg");}
+    #zumba{background-image: url("/assets/zumba.jpg");}
+    #A{ background-image: url("/assets/ballet.jpg");}
+    #B{
+        background-image: url("/assets/Tap2.jpg");
+        background-size: 550px;
+    
+    }
+    #C{ background-image: url("/assets/trad.jpg");
+        background-size: 555px;
+    }
+      
+  

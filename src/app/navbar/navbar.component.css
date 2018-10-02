@@ -1,0 +1,22 @@
+.navList{
+    display: inline;
+    font-size: 25px;
+    color: rgb(124, 164, 199);
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+ul li{
+    float: right;
+    padding: 20px;
+    list-style: none;
+    margin-top:-70px;
+    max-width: 80px;
+}
+#title{
+    font-style: italic;
+    color: aliceblue;
+    padding:10px;
+    margin-top: -25px;
+    
+}
